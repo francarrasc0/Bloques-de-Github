@@ -1,0 +1,22 @@
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(88, 88, 88);
+}
+.bloque{
+    background-color: #7CE2EE;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 20px;
+}
+.imagen {
+    width: 300px;
+}
+#bloque-2{
+    background-color: rgb(255, 242, 129);
+}
+#bloque-3{
+    background-color: rgb(245, 197, 197);
+}
